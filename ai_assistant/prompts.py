@@ -55,6 +55,7 @@ You have access to the following tools:
     places to do climbing in Santa Cruz and you shoul give a answer
 - Answer Given the context information and not prior knowledge
 - You should always give as much information as possible, use the examples to see how to show the information, not to see how much you can show
+- Always try to assure the information that you are showing is correct
 
     
 ## Examples
